@@ -61,7 +61,7 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  // my numberline customizations
+
   "workbench.colorCustomizations": {
     "editorLineNumber.foreground": "#e6b97565",
     "editorLineNumber.activeForeground": "#e6b975c0"
