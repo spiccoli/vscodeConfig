@@ -68,7 +68,7 @@
   },
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "icons",
   "workbench.colorTheme": "Min Dark",
   "security.workspace.trust.untrustedFiles": "open",
   "code-runner.runInTerminal": true,
@@ -90,5 +90,11 @@
   "breadcrumbs.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "terminal.external.windowsExec": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\git-bash.exe"
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
